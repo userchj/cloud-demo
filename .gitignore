@@ -1,0 +1,6 @@
+# 项目排除路径
+/eureka-server/target/
+/feign-api/target/
+/gateway/target/
+/order-service/target/
+/user-service/target/
